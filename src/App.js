@@ -9,15 +9,15 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Edit <code>src/App.js</code> and save to reload.
+            This is a demo app from:
           </p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://tomerikstower.com/react-pwa-aws"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Learn how to publish a Create React App PWA on AWS
           </a>
         </header>
       </div>
